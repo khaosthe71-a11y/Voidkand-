@@ -1,0 +1,19 @@
+{
+  "current_location": "Aetherfall",
+  "hp": 100,
+  "class": "Hunter",
+  "attack": 15,
+  "level": 1,
+  "max_hp": 100,
+  "time_of_day": "day",
+  "inventory": [],
+  "experience_points": 0,
+  "xp_to_next_level": 100,
+  "currency": {
+    "gold": 0,
+    "silver": 0,
+    "copper": 0
+  },
+  "quest_log": {},
+  "completed_quest_chains": []
+}

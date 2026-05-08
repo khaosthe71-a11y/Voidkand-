@@ -1,0 +1,72 @@
+{
+  "_active": "default",
+  "characters": {
+    "default": {
+      "current_location": "Aetherfall",
+      "hp": 82,
+      "class": "Hunter",
+      "class_chosen": false,
+      "attack": 35,
+      "defense": 15,
+      "vitality": 13,
+      "mana": 65,
+      "max_mana": 65,
+      "intelligence": 13,
+      "speed": 8,
+      "luck": 8,
+      "crit_chance": 0.05,
+      "level": 5,
+      "max_hp": 170,
+      "time_of_day": "day",
+      "inventory": [
+        "Mana Potion",
+        "Defense Potion",
+        "Iron Sword",
+        "Mana Potion",
+        "Battle Pendant",
+        "Lucky Charm",
+        "Great Healing Potion",
+        "Rift Crystal",
+        "Mana Potion",
+        "Great Healing Potion",
+        "Mana Potion",
+        "Strength Potion",
+        "Leather Armor"
+      ],
+      "equipped": {
+        "weapon": "Iron Sword",
+        "armor": "Leather Armor",
+        "accessory": "Battle Pendant"
+      },
+      "experience_points": 577,
+      "xp_to_next_level": 689,
+      "currency": {
+        "gold": 0,
+        "silver": 38,
+        "copper": 42
+      },
+      "quest_log": {},
+      "completed_quest_chains": [],
+      "demon_king_slain": false,
+      "pvp_wins": 0,
+      "pvp_losses": 0,
+      "dungeons_completed": [],
+      "guild_id": "9bb8aec9",
+      "guild_bonus": {
+        "attack": 2,
+        "defense": 2,
+        "max_hp": 0,
+        "crit_chance": 0.0,
+        "speed": 0
+      },
+      "faction": null,
+      "reputation": {
+        "Eclipse": 0,
+        "Divine": 0,
+        "Void": 0
+      },
+      "faction_missions_completed": [],
+      "faction_kill_tracker": 0
+    }
+  }
+}
